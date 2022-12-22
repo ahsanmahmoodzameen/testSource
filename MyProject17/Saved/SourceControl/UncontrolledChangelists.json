@@ -5,7 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/UnrealAssets/sourceControl/testSource/MyProject17/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"D:/UnrealAssets/sourceControl/testSource/MyProject17/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/UnrealAssets/sourceControl/testSource/MyProject17/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/OW/DAQHLU1VH661AUE2JLSFDP.uasset",
+				"D:/UnrealAssets/sourceControl/testSource/MyProject17/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/Y6/PNUT074IN2CSFT1QJUHI31.uasset",
+				"D:/UnrealAssets/sourceControl/testSource/MyProject17/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/61/7QBXOMYE2LI6XTREZQ7YQL.uasset",
+				"D:/UnrealAssets/sourceControl/testSource/MyProject17/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/M1/08KUFKV65W3JKVLZKVTAML.uasset",
+				"D:/UnrealAssets/sourceControl/testSource/MyProject17/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/CF/V7BCGRUJ7U51LI1S2UW4GB.uasset",
+				"D:/UnrealAssets/sourceControl/testSource/MyProject17/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/71/B5MVMS372EP46NKCLD7LAO.uasset"
 			]
 		}
 	]
