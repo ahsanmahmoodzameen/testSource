@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿Log file open, 12/22/22 10:54:29
 LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
 LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
@@ -11,6 +12,8 @@ LogConfig: Display: Loading TVOS ini files took 0.04 seconds
 LogConfig: Display: Loading LinuxArm64 ini files took 0.04 seconds
 LogConfig: Display: Loading Linux ini files took 0.04 seconds
 =======
+=======
+>>>>>>> parent of dd07ac6... second update source control
 ﻿Log file open, 12/22/22 10:29:51
 LogConfig: Display: Loading HoloLens ini files took 0.02 seconds
 LogConfig: Display: Loading Mac ini files took 0.02 seconds
@@ -22,6 +25,9 @@ LogConfig: Display: Loading Unix ini files took 0.03 seconds
 LogConfig: Display: Loading TVOS ini files took 0.03 seconds
 LogConfig: Display: Loading Linux ini files took 0.03 seconds
 LogConfig: Display: Loading LinuxArm64 ini files took 0.03 seconds
+<<<<<<< HEAD
+>>>>>>> parent of dd07ac6... second update source control
+=======
 >>>>>>> parent of dd07ac6... second update source control
 LogPluginManager: Mounting Engine plugin Bridge
 LogPluginManager: Mounting Engine plugin EnhancedInput
@@ -29,6 +35,7 @@ LogPluginManager: Mounting Engine plugin FastBuildController
 LogPluginManager: Mounting Engine plugin MeshPainting
 LogPluginManager: Mounting Engine plugin TraceUtilities
 LogPluginManager: Mounting Engine plugin XGEController
+<<<<<<< HEAD
 <<<<<<< HEAD
 LogPluginManager: Mounting Engine plugin AISupport
 LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
@@ -107,10 +114,24 @@ LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
 LogPluginManager: Mounting Engine plugin AndroidFileServer
 LogPluginManager: Mounting Engine plugin ArchVisCharacter
 LogPluginManager: Mounting Engine plugin AssetTags
+=======
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+>>>>>>> parent of dd07ac6... second update source control
 LogPluginManager: Mounting Engine plugin AudioWidgets
 LogPluginManager: Mounting Engine plugin AudioSynesthesia
 LogPluginManager: Mounting Engine plugin AudioCapture
 LogPluginManager: Mounting Engine plugin ChunkDownloader
+<<<<<<< HEAD
+>>>>>>> parent of dd07ac6... second update source control
+=======
 >>>>>>> parent of dd07ac6... second update source control
 LogPluginManager: Mounting Engine plugin CableComponent
 LogPluginManager: Mounting Engine plugin CustomMeshComponent
@@ -134,6 +155,7 @@ LogPluginManager: Mounting Engine plugin SignificanceManager
 LogPluginManager: Mounting Engine plugin SoundFields
 LogPluginManager: Mounting Engine plugin WaveTable
 LogPluginManager: Mounting Engine plugin Synthesis
+<<<<<<< HEAD
 <<<<<<< HEAD
 LogPluginManager: Mounting Engine plugin WaveTable
 LogPluginManager: Mounting Engine plugin WebMMoviePlayer
@@ -170,6 +192,11 @@ LogPluginManager: Mounting Engine plugin ChaosCloth
 LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
 LogPluginManager: Mounting Engine plugin WebMMoviePlayer
 LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+=======
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+>>>>>>> parent of dd07ac6... second update source control
 LogPluginManager: Mounting Engine plugin ActorSequence
 LogPluginManager: Mounting Engine plugin LevelSequenceEditor
 LogPluginManager: Mounting Engine plugin SequencerScripting
@@ -219,6 +246,9 @@ LogPluginManager: Mounting Engine plugin BackChannel
 LogPluginManager: Mounting Engine plugin ChaosCloth
 LogPluginManager: Mounting Engine plugin ChaosCaching
 LogPluginManager: Mounting Engine plugin ChaosClothEditor
+<<<<<<< HEAD
+>>>>>>> parent of dd07ac6... second update source control
+=======
 >>>>>>> parent of dd07ac6... second update source control
 LogPluginManager: Mounting Engine plugin ChaosEditor
 LogPluginManager: Mounting Engine plugin ChaosNiagara
@@ -230,9 +260,15 @@ LogPluginManager: Mounting Engine plugin FullBodyIK
 LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
 LogPluginManager: Mounting Engine plugin GeometryFlow
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogPluginManager: Mounting Engine plugin MeshLODToolset
 LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
 LogPluginManager: Mounting Engine plugin Iris
+=======
+LogPluginManager: Mounting Engine plugin Iris
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+>>>>>>> parent of dd07ac6... second update source control
 =======
 LogPluginManager: Mounting Engine plugin Iris
 LogPluginManager: Mounting Engine plugin MeshLODToolset
@@ -245,6 +281,7 @@ LogPluginManager: Mounting Engine plugin ProxyLODPlugin
 LogPluginManager: Mounting Engine plugin SkeletalReduction
 LogPluginManager: Mounting Engine plugin UVEditor
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogPluginManager: Mounting Engine plugin PythonScriptPlugin
 LogPluginManager: Mounting Engine plugin Niagara
 LogPluginManager: Mounting Engine plugin InterchangeTests
@@ -255,6 +292,8 @@ LogPluginManager: Found config from plugin[Interchange] Game
 LogPluginManager: Mounting Engine plugin LightMixer
 LogPluginManager: Mounting Engine plugin ObjectMixer
 =======
+=======
+>>>>>>> parent of dd07ac6... second update source control
 LogPluginManager: Mounting Engine plugin AssetManagerEditor
 LogPluginManager: Mounting Engine plugin BlueprintHeaderView
 LogPluginManager: Mounting Engine plugin CryptoKeys
@@ -294,11 +333,15 @@ LogPluginManager: Mounting Engine plugin VariantManager
 LogPluginManager: Mounting Engine plugin VariantManagerContent
 LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
 LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+<<<<<<< HEAD
+>>>>>>> parent of dd07ac6... second update source control
+=======
 >>>>>>> parent of dd07ac6... second update source control
 LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
 LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
 LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
 LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+<<<<<<< HEAD
 <<<<<<< HEAD
 LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
@@ -316,6 +359,11 @@ LogPluginManager: Mounting Engine plugin LightMixer
 LogPluginManager: Mounting Engine plugin ObjectMixer
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
 >>>>>>> parent of dd07ac6... second update source control
+=======
+LogPluginManager: Mounting Engine plugin LightMixer
+LogPluginManager: Mounting Engine plugin ObjectMixer
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+>>>>>>> parent of dd07ac6... second update source control
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioWidgets/Content/' mounted to '/AudioWidgets/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
@@ -324,12 +372,15 @@ LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/WaveTable/Content/' mounted to '/WaveTable/'
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/BlueprintHeaderView/Content/' mounted to '/BlueprintHeaderView/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GLTFImporter/Content/' mounted to '/GLTFImporter/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
 =======
+=======
+>>>>>>> parent of dd07ac6... second update source control
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
@@ -350,6 +401,7 @@ LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experim
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/UVEditor/Content/' mounted to '/UVEditor/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
@@ -358,6 +410,10 @@ LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Interch
 =======
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/UVEditor/Content/' mounted to '/UVEditor/'
+=======
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/UVEditor/Content/' mounted to '/UVEditor/'
+>>>>>>> parent of dd07ac6... second update source control
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/BlueprintHeaderView/Content/' mounted to '/BlueprintHeaderView/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GLTFImporter/Content/' mounted to '/GLTFImporter/'
@@ -369,6 +425,9 @@ LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Interch
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/GLTFExporter/Content/' mounted to '/GLTFExporter/'
+<<<<<<< HEAD
+>>>>>>> parent of dd07ac6... second update source control
+=======
 >>>>>>> parent of dd07ac6... second update source control
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ObjectMixer/LightMixer/Content/' mounted to '/LightMixer/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ObjectMixer/ObjectMixer/Content/' mounted to '/ObjectMixer/'
@@ -456,6 +515,7 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 LogConfig: Set CVar [[r.Occlusion.SingleRHIThreadStall:1]]
 LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
+<<<<<<< HEAD
 <<<<<<< HEAD
 [2022.12.22-05.54.29:424][  0]LogConfig: Set CVar [[r.VSync:0]]
 [2022.12.22-05.54.29:424][  0]LogConfig: Set CVar [[r.RHICmdBypass:0]]
@@ -2033,6 +2093,8 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2022.12.22-05.55.36:915][290]LogExit: Exiting.
 [2022.12.22-05.55.36:946][290]Log file closed, 12/22/22 10:55:36
 =======
+=======
+>>>>>>> parent of dd07ac6... second update source control
 [2022.12.22-05.29.51:833][  0]LogConfig: Set CVar [[r.VSync:0]]
 [2022.12.22-05.29.51:833][  0]LogConfig: Set CVar [[r.RHICmdBypass:0]]
 [2022.12.22-05.29.51:833][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
@@ -3087,4 +3149,7 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2022.12.22-05.30.23:751][  0]LogAssetRegistry: Asset discovery search completed in 27.3783 seconds
 [2022.12.22-05.30.24:148][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000008 seconds (updated 0 objects)
 [2022.12.22-05.30.24:183][  0]LogContentStreaming: Texture pool size now 1000 MB
+<<<<<<< HEAD
+>>>>>>> parent of dd07ac6... second update source control
+=======
 >>>>>>> parent of dd07ac6... second update source control
